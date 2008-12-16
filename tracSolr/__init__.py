@@ -1,0 +1,1 @@
+from tracSolr.pluginwrapper import *
